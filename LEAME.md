@@ -15,5 +15,5 @@ o podemos descargar archivos
 Vamos a descargar archivos del curso que están en [Github](https://github.com/DanielBerns/didactic-spoon)
 ![Cuaderno nuevo](./imagenes/delta.png)
 
-Comenzaremos por el archivo 00-Introducción.ipynb
+Comenzaremos por el archivo etapas/00-Introducción.ipynb
 ![Google Colab](./imagenes/echo.png)
